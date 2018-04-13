@@ -1,10 +1,15 @@
 # spring-security-oauth2-client-example
 
-If you're looking for a way to make a custom OAuth2 UserService, see the custom-oauth2userservice branch
+## Modules
+
+### minimal-sample
 
 TODO
 
 
+### custom-userservice-sample
+
+Same as minimal-sample, but it contains a custom OAuth2 UserService.
 
 
 ## Note
