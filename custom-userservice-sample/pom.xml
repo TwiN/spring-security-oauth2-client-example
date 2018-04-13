@@ -5,13 +5,12 @@
     <parent>
         <artifactId>spring-security-oauth2-client-example</artifactId>
         <groupId>org.twinnation</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>custom-userservice-sample</artifactId>
 
-
-
+    <!-- If you're looking for the dependencies, look at the root pom.xml instead of here -->
 
 </project>
