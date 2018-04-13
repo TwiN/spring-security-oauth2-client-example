@@ -4,7 +4,7 @@
 
 ### minimal-sample
 
-TODO
+This module contains the minimal configuration required for a Spring Boot project using Spring Security with OAuth2 client. 
 
 
 ### custom-userservice-sample
