@@ -1,4 +1,4 @@
-package org.twinnation.springsecurityoauth2clientexample.config;
+package springsecurityoauth2clientexample.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;

@@ -5,8 +5,12 @@
 
 	<groupId>org.twinnation</groupId>
 	<artifactId>spring-security-oauth2-client-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<version>1.0.0</version>
+	<modules>
+		<module>minimal-sample</module>
+		<module>custom-userservice-sample</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>spring-security-oauth2-client-example</name>
 	<description> Spring Security OAuth2 client example</description>
@@ -58,6 +62,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>

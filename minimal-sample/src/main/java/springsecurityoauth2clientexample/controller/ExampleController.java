@@ -1,4 +1,4 @@
-package org.twinnation.springsecurityoauth2clientexample.controller;
+package springsecurityoauth2clientexample.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
