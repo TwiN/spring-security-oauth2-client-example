@@ -16,7 +16,7 @@ public class ExampleController {
 		OAuth2User user = getCurrentUser();
 		return "Hello " + user.getAttributes().get("name") + ". Your email is " + user.getAttributes().get("email")
 			  + " and your profile picture is " + user.getAttributes().get("picture") + " <br />"
-			  + "<a href=\"logout\">logout</a>";
+			  + "<a href='logout'>logout</a>";
 	}
 	
 	
